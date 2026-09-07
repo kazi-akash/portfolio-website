@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import LogoMarquee from "./components/LogoMarquee";
 import Highlight from "./components/Highlight";
+import TeamShowcase from "./components/TeamShowcase";
 import Testimonials from "./components/Testimonials";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
@@ -15,6 +16,7 @@ export default function Home() {
         <Hero />
         <LogoMarquee />
         <Highlight />
+        <TeamShowcase />
         <Testimonials />
         <Portfolio />
         <Contact />
